@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { setAddon, storiesOf } from '@storybook/react';
+import JSXAddon from 'storybook-addon-jsx'
 
 import PivotTable from '../src/PivotTable'
 import { mps } from './SampleData'
